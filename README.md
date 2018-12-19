@@ -1,4 +1,4 @@
-It's me, Mikeal. I forked this repo from Tierney and it's awesome!
+It's me, Matthew Podwysocki. I forked this repo from Mikeal and it's awesome!
 
 # Usage
 Via npx:
